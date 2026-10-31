@@ -1,2 +1,4 @@
 # git-github-course
-impliminting git&amp;github course from elzero school
+impliminting git&github course from elzero school
+
+project notes
